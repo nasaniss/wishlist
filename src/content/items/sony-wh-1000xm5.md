@@ -4,7 +4,7 @@ type: вещь
 category: Электроника
 price: 399
 currency: EUR
-priority: 2
+priority: 1
 url: https://electronics.sony.com/audio/headphones/headband/p/wh1000xm5-b
 links:
   - label: Альтернатива — Bose QuietComfort Ultra
