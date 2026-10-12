@@ -1,5 +1,10 @@
 {
+  "defaultCurrency": "RUB",
+  "listId": "nasaniss/wishlist",
+  "reservations": {
+    "anonKey": "sb_publishable_-q2Z6d04tYZa-pooQHfFCA_pfyneBj8",
+    "url": "https://ynlvsorcdkmzsmlbbrwc.supabase.co"
+  },
   "schemaVersion": 1,
-  "title": "Мой вишлист",
-  "defaultCurrency": "RUB"
+  "title": "Порадовать толстомясочку"
 }
